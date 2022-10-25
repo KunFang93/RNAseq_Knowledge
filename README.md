@@ -8,6 +8,6 @@
 [Practical advice for handling Spike-in RNA-seq](https://support.bioconductor.org/p/74870/)
 
 ## QC
-[A comprehensive assessment of RNA-seq accuracy, reproducibility and information content by the Sequencing Quality Control Consortium](https://www.nature.com/articles/nbt.2957)
-[]
+[A comprehensive assessment of RNA-seq accuracy, reproducibility and information content by the Sequencing Quality Control Consortium](https://www.nature.com/articles/nbt.2957).  
+[Normalization of RNA-seq data using factor analysis of control genes or samples](https://www.nature.com/articles/nbt.2931#Sec9)
 
